@@ -1,0 +1,1 @@
+C:\WBox\Study\Code\ASP4\FirstGitTest\bin\Debug\FirstGitTest.exe.config
