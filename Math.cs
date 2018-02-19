@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace FirstGitTest
 {
-    class Program
+    class Math
     {
-        static void Main(string[] args)
-        {
-            //make sume changes d
-        }
+        int Add(int a, int b)
+        { return a + b; }
     }
 }
